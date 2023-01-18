@@ -1,5 +1,5 @@
 {
-    "name": "odannyc/laravel5-braintree",
+    "name": "malith124/laravel6-braintree",
     "description": "Braintree Service Provider for Laravel 5",
     "keywords": ["braintree","braintree laravel 5"],
     "homepage": "https://github.com/odannyc/laravel-braintree",
@@ -21,11 +21,16 @@
             "name": "Brad Daily",
             "email": "brad@bradleyboy.com",
             "role": "Developer"
+        },
+        {
+            "name": "Malith Fernando",
+            "email": "malith@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.x",
+        "illuminate/support": "6.x",
         "braintree/braintree_php": "3.x"
     },
     "autoload": {
