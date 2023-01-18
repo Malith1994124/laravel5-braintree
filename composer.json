@@ -1,7 +1,7 @@
 {
     "name": "malith124/laravel6-braintree",
-    "description": "Braintree Service Provider for Laravel 5",
-    "keywords": ["braintree","braintree laravel 5"],
+    "description": "Braintree Service Provider for Laravel 6",
+    "keywords": ["braintree","braintree laravel 6"],
     "homepage": "https://github.com/odannyc/laravel-braintree",
     "license": "MIT",
     "authors": [
